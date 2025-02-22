@@ -13,7 +13,7 @@ This project analyzes the Chinook Database, a sample database representing a dig
 ## How to Run
 1. Download the Chinook Database from [GitHub](https://github.com/lerocha/chinook-database).
 2. Load the database into MySQL.
-3. Run the SQL queries provided in the `queries.sql` file.
+3. Run the SQL queries provided in the `SQL Project Indep.sql` file.
 
 ## Results
 - The most popular genre is **Rock**.
